@@ -59,6 +59,10 @@ Every player controls a small ship with a paint cannon. Everything you shoot sta
 | ![Roguelike](images/12_roguelike_1.jpg) | ![Roguelike](images/12_roguelike_2.jpg) |
 | ![Roguelike](images/12_roguelike_3.jpg) | ![Roguelike](images/12_roguelike_4.jpg) |
 
+## AI disclosure
+
+Generative AI tools were used in the development of this game and in the writing of this page.
+
 ## System requirements
 
 | | Minimum | Recommended |
@@ -119,6 +123,10 @@ Ogni giocatore guida una piccola navetta con un cannone a vernice. Tutto quello 
 - **Bonus e armi speciali** compaiono nell'arena durante la partita e si possono abilitare uno per uno.
 - Ogni navetta ha una barra della **vita** e una dell'**inchiostro**: sparare consuma inchiostro, quindi non si può sparare senza limiti.
 - Menu chiari, pagina "Come si gioca", menu di pausa per ricominciare subito.
+
+## Uso dell'intelligenza artificiale
+
+Nello sviluppo di questo gioco e nella scrittura di questa pagina sono stati usati strumenti di intelligenza artificiale generativa.
 
 ## Requisiti di sistema
 
